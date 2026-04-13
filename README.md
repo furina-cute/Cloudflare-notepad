@@ -94,7 +94,7 @@ https://your-worker.your-subdomain.workers.dev
 ## 截图示例
 | 目录页                                                         | 编辑页                                                    |
 | ----------------------------------------------------------- | ------------------------------------------------------ |
-| ![目录页](https://github.com/user-attachments/assets/b7b747c5-c997-48f4-81d9-340ab5b7dd23) | ![编辑页](https://github.com/user-attachments/assets/9f3613bd-b7c8-401f-b165-a10ad5735fb3) |
+| ![目录页](https://github.com/furina-cute/Cloudflare-notepad/blob/main/Web%20screenshot/Main%20Interface.png) | ![编辑页](https://github.com/furina-cute/Cloudflare-notepad/blob/main/Web%20screenshot/Edit%20page.png) |
 
 
 
